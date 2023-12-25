@@ -3,3 +3,7 @@
 </h1>
 
 # Hello my name sony
+
+Salah? <span style='color: red;'>Perbaiki</span> <br>
+Gagal? <span style='color: red;'>Coba lagi</span> <br>
+Tidak bisa? <span style='color: red;'>Pelajari</span>
