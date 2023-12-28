@@ -7,3 +7,5 @@
 Salah? <span style='color: red;'>Perbaiki</span> <br>
 Gagal? <span style='color: red;'>Coba lagi</span> <br>
 Tidak bisa? <span style='color: red;'>Pelajari</span>
+
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
