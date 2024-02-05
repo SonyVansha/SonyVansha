@@ -85,6 +85,8 @@ preview
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" /> </a> </p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sonyvansha&show_icons=true&locale=en&layout=compact"
         alt="sonyvansha" /></p>
