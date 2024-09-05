@@ -18,9 +18,12 @@ preview
     <a href="https://instagram.com/sonyvansha" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="sonyvansha" height="30" width="40" /></a>
-    <a href="https://discord.gg/qQbjesjW" target="blank"><img align="center"
+<!--     <a href="https://discord.gg/qQbjesjW" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="qQbjesjW" height="30" width="40" /></a>
+            alt="qQbjesjW" height="30" width="40" /></a> -->
+    <a href="https://gitlab.com/SonyVansha" target="blank"><img align="center"
+            src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg"
+            alt="qQbjesjW" height="50" width="60" /></a>
 </p>
 
 <!-- Skill -->
