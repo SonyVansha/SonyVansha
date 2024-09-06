@@ -1,15 +1,38 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-preview
+<!-- Teks Berjalan -->
 <h1 align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sony+Vansha😊;" />
 </h1>
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonyvansha&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sonyvansha" /> </p>
 
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="width: 50%; vertical-align: middle;">
+      <h2>I'm a Cloud Engineer, Backend Developer, DevOps Engineer</h2>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>I'm currently studying everything</li>
+        <li>I am an Backend engineer</li>
+        <li>Want to develop web and API that everyone can use</li>
+        <li>My hobbies are coding, trying something new, making something useful</li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: middle;">
+      <img alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
+    </td>
+  </tr>
+</table>
+
+  
+<!-- GIF -->
+<!-- <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">  -->
+
+<!-- Stats views -->
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonyvansha&label=Profile%20views&color=0e75b6&style=flat"
+        alt="sonyvansha" /> </p>  -->
+
+<!-- Sosial Media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/irvan-sony-afandi-bb7956250" target="blank"><img align="center"
@@ -18,16 +41,12 @@ preview
     <a href="https://instagram.com/sonyvansha" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="sonyvansha" height="30" width="40" /></a>
-<!--     <a href="https://discord.gg/qQbjesjW" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="qQbjesjW" height="30" width="40" /></a> -->
     <a href="https://gitlab.com/SonyVansha" target="blank"><img align="center"
             src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg"
             alt="qQbjesjW" height="50" width="60" /></a>
 </p>
 
 <!-- Skill -->
-
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 <h4 align="left">Programming Languages :</h4>
@@ -146,6 +165,7 @@ preview
             width="40" height="40" /> </a>
 </p>         
 
+<!-- Garph Stats my GitHub -->
 ## 📈 GitHub Activity Graph:
 
 <table align="center">
