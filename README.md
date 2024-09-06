@@ -29,8 +29,8 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">  -->
 
 <!-- Stats views -->
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonyvansha&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sonyvansha" /> </p>  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonyvansha&label=Profile%20views&color=0e75b6&style=flat"
+        alt="sonyvansha" /> </p> 
 
 <!-- Sosial Media -->
 ## 🌐 Socials:
