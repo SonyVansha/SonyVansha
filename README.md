@@ -146,7 +146,19 @@ preview
             width="40" height="40" /> </a>
 </p>         
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## 📈 GitHub Activity Graph:
+
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/sonyvansha#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sonyvansha&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sonyvansha#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sonyvansha&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/sonyvansha#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvansha&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sonyvansha#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyvansha&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/sonyvansha#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvansha&theme=default"/></a><a href="https://github.com/sonyvansha#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvansha&theme=tokyonight"/></a></td>
+    </tr>
+</table>
+
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sonyvansha&show_icons=true&locale=en&layout=compact"
@@ -156,4 +168,4 @@ preview
         src="https://github-readme-stats.vercel.app/api?username=sonyvansha&show_icons=true&locale=en"
         alt="sonyvansha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvansha&" alt="sonyvansha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvansha&" alt="sonyvansha" /></p> -->
