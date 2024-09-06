@@ -33,6 +33,14 @@
         alt="sonyvansha" /> </p>  -->
 
 <!-- Sosial Media -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonyvansha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irvan-sony-afandi) 
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white)](https://gitlab.com/SonyVansha) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/SonyVansha) 
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://github.com/SonyVansha)
+
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/irvan-sony-afandi-bb7956250" target="blank"><img align="center"
@@ -45,6 +53,7 @@
             src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg"
             alt="qQbjesjW" height="50" width="60" /></a>
 </p>
+-->
 
 <!-- Skill -->
 <h3 align="left">Languages and Tools:</h3>
@@ -165,6 +174,9 @@
             width="40" height="40" /> </a>
 </p>         
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- Garph Stats my GitHub -->
 ## 📈 GitHub Activity Graph:
 
@@ -178,6 +190,14 @@
     </tr>
 </table>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SonyVansha&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+<!--
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SonyVansha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+-->
+
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 
 <p><img align="left"
@@ -188,4 +208,5 @@
         src="https://github-readme-stats.vercel.app/api?username=sonyvansha&show_icons=true&locale=en"
         alt="sonyvansha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvansha&" alt="sonyvansha" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonyvansha&" alt="sonyvansha" /></p>
+-->
