@@ -39,6 +39,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white)](https://gitlab.com/SonyVansha) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/SonyVansha) 
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23167353/sony-vansha)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white)](https://catatanitsony.blogspot.com)
 
 <!--
 <h3 align="left">Connect with me:</h3>
