@@ -38,7 +38,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irvan-sony-afandi) 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white)](https://gitlab.com/SonyVansha) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/SonyVansha) 
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://github.com/SonyVansha)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23167353/sony-vansha)
 
 <!--
 <h3 align="left">Connect with me:</h3>
