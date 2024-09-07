@@ -175,7 +175,10 @@
 </p>         
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</p>
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- Garph Stats my GitHub -->
 ## 📈 GitHub Activity Graph:
