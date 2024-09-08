@@ -139,6 +139,7 @@
       <br>Jenkins
     </td>
   </tr>
+  
    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
@@ -176,9 +177,20 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="dart" />
       <br>VSCode
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redhat" width="40" height="40" alt="dart" />
       <br>Redhat
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="dart" />
+      <br>Actions
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="dart" />
+      <br>Vite
     </td>
   </tr>
  <tr>
