@@ -59,156 +59,403 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <a href="https://aws.amazon.com/id/what-is-aws">
+        <img
+          src="https://techstack-generator.vercel.app/aws-icon.svg"
+          alt="AWS"
+          width="65"
+          height="65"
+        />
       </a>
-      <br>React
+      <br />AWS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
-      <br>Javascript
+      <a href="https://legacy.reactjs.org">
+        <img
+          src="https://techstack-generator.vercel.app/react-icon.svg"
+          alt="React"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
+      <a href="https://devdocs.io/javascript/">
+        <img
+          src="https://techstack-generator.vercel.app/js-icon.svg"
+          alt="Javascript"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
-      <br>Nginx
+      <a href="https://kubernetes.io/id/">
+        <img
+          src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
+          alt="Kubernetes"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/">
+        <img
+          src="https://techstack-generator.vercel.app/mysql-icon.svg"
+          alt="MySQL"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com">
+        <img
+          src="https://techstack-generator.vercel.app/github-icon.svg"
+          width="65"
+          height="65"
+          alt="GitHub"
+        />
+      </a>
+      <br />Github
+    </td>
+    <td align="center" width="96">
+      <a href="https://restfulapi.net/">
+        <img
+          src="https://techstack-generator.vercel.app/restapi-icon.svg"
+          width="65"
+          height="65"
+          alt="Rest API"
+        />
+      </a>
+      <br />Rest API
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/">
+        <img
+          src="https://techstack-generator.vercel.app/docker-icon.svg"
+          width="65"
+          height="65"
+          alt="Docker"
+        />
+      </a>
+      <br />Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://nginx.org/">
+        <img
+          src="https://techstack-generator.vercel.app/nginx-icon.svg"
+          alt="Nginx"
+          width="50"
+          height="50"
+        />
+      </a>
+      <br />Nginx
     </td>
   </tr>
-    
+
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+      <a href="https://git-scm.com/">
+        <img
+          src="https://skillicons.dev/icons?i=git"
+          width="48"
+          height="48"
+          alt="Git"
+        />
+      </a>
+      <br />Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+      <a href="https://about.gitlab.com/">
+        <img
+          src="https://skillicons.dev/icons?i=gitlab"
+          width="48"
+          height="48"
+          alt="GitLab"
+        />
+      </a>
+      <br />GitLab
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/html">
+        <img
+          src="https://skillicons.dev/icons?i=html"
+          width="48"
+          height="48"
+          alt="HTML"
+        />
+      </a>
+      <br />HTML
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/css/">
+        <img
+          src="https://skillicons.dev/icons?i=css"
+          width="48"
+          height="48"
+          alt="css"
+        />
+      </a>
+      <br />CSS
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img
+          src="https://skillicons.dev/icons?i=bootstrap"
+          width="48"
+          height="48"
+          alt="bootstrap"
+        />
+      </a>
+      <br />Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/">
+        <img
+          src="https://skillicons.dev/icons?i=tailwind"
+          width="48"
+          height="48"
+          alt="tailwind"
+        />
+      </a>
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/">
+        <img
+          src="https://skillicons.dev/icons?i=express"
+          width="48"
+          height="48"
+          alt="Express"
+        />
+      </a>
+      <br />Express
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/">
+        <img
+          src="https://skillicons.dev/icons?i=postgres"
+          width="48"
+          height="48"
+          alt="PostgreSQL"
+        />
+      </a>
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.jenkins.io/">
+        <img
+          src="https://skillicons.dev/icons?i=jenkins"
+          width="48"
+          height="48"
+          alt="Jenkins"
+        />
+      </a>
+      <br />Jenkins
     </td>
   </tr>
-  
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="dart" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nextjs" />
-      <br>Nextjs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-  </tr>
-  
+
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="Redhat" />
-      <br>Redhat
+      <a href="https://redis.io/">
+        <img
+          src="https://skillicons.dev/icons?i=redis"
+          width="48"
+          height="48"
+          alt="Redis"
+        />
+      </a>
+      <br />Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
-      <br>Actions
+      <a href="https://www.postman.com/">
+        <img
+          src="https://skillicons.dev/icons?i=postman"
+          width="48"
+          height="48"
+          alt="Postman"
+        />
+      </a>
+      <br />Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
+      <a href="https://www.linux.org/">
+        <img
+          src="https://skillicons.dev/icons?i=linux"
+          width="48"
+          height="48"
+          alt="Linux"
+        />
+      </a>
+      <br />Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
-      <br>Ansible
+      <a href="https://go.dev/">
+        <img
+          src="https://skillicons.dev/icons?i=go"
+          width="48"
+          height="48"
+          alt="Go"
+        />
+      </a>
+      <br />Go
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
-      <br>DynamoDB
+      <a href="https://www.mongodb.com/">
+        <img
+          src="https://skillicons.dev/icons?i=mongodb"
+          width="48"
+          height="48"
+          alt="dart"
+        />
+      </a>
+      <br />MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/9ef55cdc-6eb6-4a51-a16a-6938df23ec7d" width="48" height="48" alt="Cisco" />
-      <br>Cisco
+      <a href="https://nodejs.org/id">
+        <img
+          src="https://skillicons.dev/icons?i=nodejs"
+          width="48"
+          height="48"
+          alt="Nodejs"
+        />
+      </a>
+      <br />Nodejs
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/2ef5c02e-2d2c-4616-aae8-ef536cb5ce2f" width="48" height="48" alt="MikroTik" />
-      <br>MikroTik
+      <a href="https://nextjs.org/">
+        <img
+          src="https://skillicons.dev/icons?i=nextjs"
+          width="48"
+          height="48"
+          alt="Nextjs"
+        />
+      </a>
+      <br />Nextjs
+    </td>
+    <td align="center" width="96">
+      <a href="https://ubuntu.com/">
+        <img
+          src="https://skillicons.dev/icons?i=ubuntu"
+          width="48"
+          height="48"
+          alt="Ubuntu"
+        />
+      </a>
+      <br />Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com">
+        <img
+          src="https://skillicons.dev/icons?i=vscode"
+          width="48"
+          height="48"
+          alt="VSCode"
+        />
+      </a>
+      <br />VSCode
     </td>
   </tr>
- <tr>
- </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.redhat.com/en">
+        <img
+          src="https://skillicons.dev/icons?i=redhat"
+          width="48"
+          height="48"
+          alt="Redhat"
+        />
+      </a>
+      <br />Redhat
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/features/actions">
+        <img
+          src="https://skillicons.dev/icons?i=githubactions"
+          width="48"
+          height="48"
+          alt="Actions"
+        />
+      </a>
+      <br />Actions
+    </td>
+    <td align="center" width="96">
+      <a href="https://vitejs.dev/">
+        <img
+          src="https://skillicons.dev/icons?i=vite"
+          width="48"
+          height="48"
+          alt="Vite"
+        />
+      </a>
+      <br />Vite
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.ansible.com">
+        <img
+          src="https://skillicons.dev/icons?i=ansible"
+          width="48"
+          height="48"
+          alt="Ansible"
+        />
+      </a>
+      <br />Ansible
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/id/dynamodb">
+        <img
+          src="https://skillicons.dev/icons?i=dynamodb"
+          width="48"
+          height="48"
+          alt="DynamoDB"
+        />
+      </a>
+      <br />DynamoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cisco.com">
+        <img
+          src="https://github.com/user-attachments/assets/9ef55cdc-6eb6-4a51-a16a-6938df23ec7d"
+          width="48"
+          height="48"
+          alt="Cisco"
+        />
+      </a>
+      <br />Cisco
+    </td>
+    <td align="center" width="96">
+      <a href="https://mikrotik.com">
+        <img
+          src="https://github.com/user-attachments/assets/2ef5c02e-2d2c-4616-aae8-ef536cb5ce2f"
+          width="48"
+          height="48"
+          alt="MikroTik"
+        />
+      </a>
+      <br />MikroTik
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/nvm-sh/nvm">
+        <img
+          src="https://github.com/user-attachments/assets/165062c0-51d8-42b2-803e-3a97aefb7bd1"
+          width="48"
+          height="48"
+          alt="NVM"
+        />
+      </a>
+      <br />NVM
+    </td>
+  </tr>
+  <tr></tr>
 </table>
+
 
 ### ✍️ Random Dev Quote
 <p align="center">
