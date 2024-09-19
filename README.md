@@ -24,6 +24,15 @@
   </tr>
 </table>
 
+<!--
+## I'm a Cloud Engineer, Backend Developer, DevOps Engineer <a href="https://github.com/sponsors/M0nica"><img align="right" width="300" src="https://indoanalytica.com/static/images/data-science-5.gif?raw=true"></a>
+
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+<br>
+-->
+
 <!-- Stats views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonyvansha&label=Profile%20views&color=0e75b6&style=flat" alt="sonyvansha" /> </p> 
 
