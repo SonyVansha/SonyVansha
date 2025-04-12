@@ -1,5 +1,0 @@
-Create Profil GitHub : https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-Guide commit : https://www.conventionalcommits.org/id/v1.0.0/
-
-Create Topology AWS : https://aws.amazon.com/id/architecture/icons/
