@@ -495,6 +495,8 @@
 
 <!-- Hu Tao-->
 <!-- <img src="https://github.com/user-attachments/assets/2bbe8c9c-cc70-4291-9480-eeca9d0f10a1" alt="dey6mzz-324e6a55-9fdd-468d-8e39-892bb98b05cc" width="50" height="50"> -->
+![snake gif](https://github.com/SonyVansha/SonyVansha/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Footer -->
 ![dfwtrdo-80c5b3ae-615f-4074-9f0e-c772659e4e79](https://github.com/user-attachments/assets/1f3e9202-038c-4b01-81de-cef8dca4fc9d)
